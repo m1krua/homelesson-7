@@ -1,0 +1,80 @@
+
+button {
+   background: none;
+   border-radius: 8px;
+   padding: 10px 16px;
+   cursor: pointer;
+   
+}
+
+.btn-pri {
+    border-color: #007bff;
+   color: #007bff;
+}
+.btn-pri:hover {
+    background-color: #007bff;
+   color: #ffffff;
+}
+.btn-seco {
+    border-color: #adadad;
+   color: #adadad;
+}
+.btn-seco:hover {
+    border-color: #adadad;
+    background-color: #adadad;
+   color: #ffffff;
+}
+.btn-suc {
+    border-color: #528c51;
+   color: #528c51;
+}
+.btn-suc:hover {
+    border-color: #528c51;
+    background-color: #528c51;
+   color: #ffffff;
+}
+.btn-den {
+    border-color: #ff2727;
+   color: #ff2727;
+}
+.btn-den:hover {
+    border-color: #ff2727;
+    background-color: #ff2727;
+   color: #ffffff;
+}
+.btn-wer {
+    border-color: #f1f134;
+   color: #f1f134;
+}
+.btn-wer:hover {
+    border-color: #ffff63;
+    background-color: #ffff63;
+   color: #000000;
+}
+.btn-info {
+    border-color: #14ffff;
+   color: #14ffff;
+}
+.btn-info:hover {
+    border-color: #64c4c4;
+    background-color: #64c4c4;
+   color: #ffffff;
+}
+.btn-light {
+    border-color: #e8e5e5;
+   color: #e8e5e5;
+}
+.btn-light:hover {
+    border-color: #e8e5e5;
+    background-color:#e8e5e5 ;
+   color: #111111;
+}
+.btn-dark {
+    border-color: #222222;
+   color: #222222;
+}
+.btn-dark:hover {
+    border-color: #222222;
+    background-color: #222222;
+   color: #adadad;
+}
